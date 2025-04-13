@@ -1,5 +1,9 @@
 
-# Simple Blockchain Implementation in C++
+# Blockchain-Based Ledger System
+
+<p align="center">
+  <img src="src/banner1.jpg" alt="Banner"/>
+</p>
 
 ## Overview
 
